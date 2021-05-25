@@ -1,10 +1,10 @@
 # COMTEK
 Устанавливаем postgresql по инструкции
-[Инструкция](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-20-04-ru)
+[Инструкция](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-20-04-ru) 
 со следующими параметрами
-Имя пользователя: comtek
-Пароль: comtek
-Название базы данных: comtek
+- Имя пользователя: comtek
+- Пароль: comtek
+- Название базы данных: comtek
 
 
 Обновляем репозитории
