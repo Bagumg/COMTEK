@@ -31,3 +31,6 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+
+По адресу (http://127.0.0.1:8000/swagger/) - будет Swagger UI с описанием API и возможностью потестировать
+По адресу (http://127.0.0.1:8000/admin/) - будет административная панель с возможностью создавать/просматривать/редактировать и удалять справочники и элементы
